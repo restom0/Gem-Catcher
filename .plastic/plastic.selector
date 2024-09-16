@@ -1,0 +1,4 @@
+repository "Restom0 - Gem Catcher@thaingocrang2014@cloud"
+  path "/"
+    br "/main"
+    co "/main"
